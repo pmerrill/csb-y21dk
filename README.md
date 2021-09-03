@@ -1,4 +1,5 @@
-# csb-y21dk
+# Football Sim
+Info...
 
 # TODO
 
